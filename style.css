@@ -1,0 +1,28 @@
+html{
+
+    scroll-behavior: smooth;
+}
+
+body{
+    text-align: center;
+    background: linear-gradient(45deg,coral,rgb(157, 236, 157),coral,rgb(168, 199, 168) ,coral);
+   
+  
+}
+h2{
+    background: linear-gradient(45deg,green,coral,green );
+    color: white;
+    padding: 30px;
+    border-radius: 50%;
+    width: 800px; 
+    margin: auto;
+    box-shadow: 0 0 5px black;
+    font-family:'Courier New', Courier, monospace
+}
+table{
+    width: 100%;
+}
+img{
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
